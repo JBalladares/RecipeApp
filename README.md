@@ -11,13 +11,12 @@ Additional features:
 
   ### App Preview:
   Home screen:
+  
   ![Home View](https://github.com/JBalladares/RecipeApp/blob/main/HomeScreen.gif)
 
   List view:
-  <div style="display: flex, gap: 20 px; align-items: center;">
-    <img src="https://github.com/JBalladares/RecipeApp/blob/main/ListView.gif" wdith="300"/>
-    <img src="https://github.com/JBalladares/RecipeApp/blob/main/RecipesApp_AllRep_Screenshot.png?raw=true" width="300"/>
-  </div>
+<img src="https://github.com/JBalladares/RecipeApp/blob/main/ListView.gif?raw=true" width="300" style="display:inline-block; margin-right: 10px;"/>
+<img src="https://github.com/JBalladares/RecipeApp/blob/main/RecipesApp_AllRep_Screenshot.png?raw=true" width="300" style="display:inline-block;"/>
 
   Detail view:
   
