@@ -20,6 +20,7 @@ Additional features:
   </div>
 
   Detail view:
+  
   <img src="https://github.com/JBalladares/RecipeApp/blob/main/RecipesApp_DetailView_screenshot.png?raw=true" width="300"/>
   ________________________________________________________________________________________
 ### Focus Areas:
