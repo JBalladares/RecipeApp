@@ -30,7 +30,8 @@ Additional features:
   Detail view:
   
   <img src="https://github.com/JBalladares/RecipeApp/blob/main/RecipesApp_DetailView_screenshot.png?raw=true" width="300"/>
-  ________________________________________________________________________________________
+  
+______________________________________________________________________________________
 ### Focus Areas:
   For this app I focused on the core requirements; show the name, photo and cuisine type. From there I took a look into the JSON keys and values to see what is given and how the data is presented. After that I began to sketch out a design layout and flow of the app.
 
