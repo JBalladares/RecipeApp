@@ -12,7 +12,7 @@ Additional features:
   ### App Preview:
   Home screen:
   
-  ![Home View](media/HomeScreen.gif)
+  ![Home View](HomeScreen.gif)
 
   List view:
   
