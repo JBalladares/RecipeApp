@@ -11,7 +11,7 @@ Additional features:
 
   ### App Preview:
   Home screen:
-  <img src="https://github.com/JBalladares/RecipeAppFinal/blob/main/media/HomeScreen.gif?raw=true" width="300"/>
+  ![Home View](media/HomeScreen.gif)
 
   List view:
   
