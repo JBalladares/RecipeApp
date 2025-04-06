@@ -16,8 +16,16 @@ Additional features:
 
   List view:
   
-<img src="https://github.com/JBalladares/RecipeApp/blob/main/ListView.gif?raw=true" width="300" style="display:inline-block; margin-right: 10px;"/>
-<img src="https://github.com/JBalladares/RecipeApp/blob/main/RecipesApp_AllRep_Screenshot.png?raw=true" width="300" style="display:inline-block;"/>
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/JBalladares/RecipeApp/blob/main/ListView.gif?raw=true" width="300"/>
+    </td>
+    <td>
+      <img src="https://github.com/JBalladares/RecipeApp/blob/main/RecipesApp_AllRep_Screenshot.png?raw=true" width="300"/>
+    </td>
+  </tr>
+</table>
 
   Detail view:
   
