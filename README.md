@@ -12,7 +12,7 @@ Additional features:
   ### App Preview:
   Home screen:
   
-  ![Home View](https://github.com/JBalladares/RecipeApp/blob/main/HomeScreen.gif)
+  ![Home View](media/HomeScreen.gif)
 
   List view:
   
