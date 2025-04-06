@@ -11,11 +11,12 @@ Additional features:
 
   ### App Preview:
   Home screen:
-  <img src="https://github.com/JBalladares/RecipeApp/blob/main/HomeScreen.gif" width="300"/>
+  
+  <img src="https://raw.githubusercontent.com/JBalladares/RecipeApp/main/media/HomeScreen.gif" width="300"/>
 
   List view:
   
-<img src="https://github.com/JBalladares/RecipeApp/blob/main/ListView.gif" width="300"/>
+<img src="https://raw.githubusercontent.com/JBalladares/RecipeApp/main/media/ListView.gif" width="300"/>
 <img src="media/RecipesApp_AllRep_Screenshot.png" width="300"/>
 
   Detail view:
