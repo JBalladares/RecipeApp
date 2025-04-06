@@ -16,11 +16,10 @@ Additional features:
   List view:
   <div style="display: flex, gap: 20 px; align-items: center;">
     <img src="https://github.com/JBalladares/RecipeApp/blob/main/ListView.gif" wdith="300"/>
-    <img src="https://github.com/JBalladares/RecipeApp/blob/main/RecipesApp_AllRep_Screenshot.png?raw=true" wdith="300"/>
+    <img src="https://github.com/JBalladares/RecipeApp/blob/main/RecipesApp_AllRep_Screenshot.png?raw=true" width="300"/>
   </div>
 
   Detail view:
-  ![Detail View]
   <img src="https://github.com/JBalladares/RecipeApp/blob/main/RecipesApp_DetailView_screenshot.png?raw=true" width="300"/>
   ________________________________________________________________________________________
 ### Focus Areas:
