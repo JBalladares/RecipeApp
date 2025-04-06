@@ -11,25 +11,16 @@ Additional features:
 
   ### App Preview:
   Home screen:
-  
-  ![Home View](HomeScreen.gif)
+  ![Home View](media/HomeScreen.gif)
 
   List view:
   
-<table>
-  <tr>
-    <td>
-      <img src="https://github.com/JBalladares/RecipeApp/blob/main/ListView.gif?raw=true" width="300"/>
-    </td>
-    <td>
-      <img src="https://github.com/JBalladares/RecipeApp/blob/main/RecipesApp_AllRep_Screenshot.png?raw=true" width="300"/>
-    </td>
-  </tr>
-</table>
+<img src="media/ListView.gif" width="300"/>
+<img src="media/RecipesApp_AllRep_Screenshot.png" width="300"/>
 
   Detail view:
   
-  <img src="https://github.com/JBalladares/RecipeApp/blob/main/RecipesApp_DetailView_screenshot.png?raw=true" width="300"/>
+<img src="media/RecipesApp_DetailView_screenshot.png" width="300"/>
   
 ______________________________________________________________________________________
 ### Focus Areas:
