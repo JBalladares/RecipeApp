@@ -46,8 +46,10 @@ This revamp brings the app closer to a native Apple experience — focused on us
 
   ### App Preview:
   Home screen:
-  
-<img src="media/ScreenShot_RecipeApp_V1_Home.png" width="300"/>
+
+| <img src="https://raw.githubusercontent.com/JBalladares/RecipeApp/main/media/ScreenRecordingHome_RecipeApp_V1.gif" width="400" height="340"/> | <img src="media/ScreenShot_RecipeApp_V1_Home.png" width="300"/>|
+|:--:|:--:|
+
 
   List view:
   
