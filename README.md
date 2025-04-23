@@ -58,6 +58,6 @@ This revamp brings the app closer to a native Apple experience — focused on us
 
   Detail view:
 
-  | <img src="https://raw.githubusercontent.com/JBalladares/RecipeApp/main/media/ScreenRecording_RecipeApp_Detail.gif" width="400" height="340"/> | <img src="https://raw.githubusercontent.com/JBalladares/RecipeApp/main/media/RecipesApp_DetailView_screenshot.png" width="300"/> |
+  | <img src="https://raw.githubusercontent.com/JBalladares/RecipeApp/main/media/ScreenRecording_RecipeApp_Detail.gif" width="400" height="340"/> | <img src="https://raw.githubusercontent.com/JBalladares/RecipeApp/main/media/ScreenShot_RecipeApp_V1.png" width="300"/> |
 |:--:|:--:|
 ______________________________________________________________________________________
