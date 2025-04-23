@@ -53,7 +53,7 @@ This revamp brings the app closer to a native Apple experience — focused on us
 
   List view:
   
-| <img src="https://raw.githubusercontent.com/JBalladares/RecipeApp/main/media/ListView.gif" width="400" height="340"/> | <img src="https://raw.githubusercontent.com/JBalladares/RecipeApp/main/media/RecipesApp_AllRep_Screenshot.png" width="300"/> |
+| <img src="https://raw.githubusercontent.com/JBalladares/RecipeApp/main/media/ListView.gif" width="400" height="340"/> | <img src="https://raw.githubusercontent.com/JBalladares/RecipeApp/main/media/Screenshot_RecipeApp_V1_List.png" width="300"/> |
 |:--:|:--:|
 
   Detail view:
