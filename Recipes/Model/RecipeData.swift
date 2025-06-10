@@ -29,8 +29,3 @@ struct RecipeWrapper: Codable {
     let recipes: [RecipeData]
 }
 
-extension RecipeData {
-    var stableID: String {
-        uuid ?? name ?? "unknown-\(photoUrlLarge ?? "")"
-    }
-}
